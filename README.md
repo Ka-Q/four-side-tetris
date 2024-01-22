@@ -6,9 +6,14 @@ There realy isn't one, since there is no score system. Lines are cleared when th
 
 ## Controls
 Arrows left and right move the piece left and right
+
 Arrow up rotates the piece 90 degrees clockwise
+
 Arrow down increases the drop speed
+
 Spacebar is hard drop
+
+
 D rotates the board 90 degrees clockwise
 
 ![](https://github.com/Ka-Q/four-side-tetris/blob/main/documentation/4-side-tetris%20.png?raw=true)
